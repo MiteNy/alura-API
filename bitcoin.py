@@ -1,5 +1,4 @@
 import time
-
 import requests
 while 1 > 0:
     time.sleep(5)
